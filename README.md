@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yaman<br>A Full stack Web Developer From Jordan.<br>
+I'm Yaman<br>A Full stack Web Developer.<br>
 
 
 
